@@ -1,19 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
- 
+
 .main-container {
     display: flex;
-    justify-content: space-evenly;
+
+
 }
 
 .main-container {
     border: 1px solid black;
     height: 90%;
-    width: 60%;
-    margin-top: 200px;
+    width: 63%;
+    margin-top: 260px;
     background-color: black;
-    padding: 4px;
+    padding: 10px;
 }
-//*This is CSS*//
+
 
 .button {
     color: white;
@@ -38,7 +39,7 @@ span {
 }
 
 .img {
-    width: 20px;
+    width: 18px;
 
 }
 
@@ -72,11 +73,10 @@ span {
 }
 
 .input {
-    width: 60%;
+    width: 63%;
     height: 40px;
-    border: solid 4px black;
-    box-shadow: 4px 5px 5px 6px #808080;
+    border: solid 1px black;
+    box-shadow: 4px 5px 5px 3px #808080;
     font-size: 35px;
     margin-top: 10px;
-    padding-bottom: 10px;
 }
